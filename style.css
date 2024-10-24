@@ -1,0 +1,16 @@
+.bg-color{
+    background-color: #3572EF;
+}
+.d-block{
+    height: 580;
+    width: 580;
+    border-radius: 50%;
+}
+.colorResumen{
+    background-color: #3572EF;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
